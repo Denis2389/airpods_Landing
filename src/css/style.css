@@ -223,3 +223,19 @@ body {
     text-decoration: underline;
     text-decoration-skip-ink: none;
 }
+
+.footer {
+    padding: 250px 0 40px;
+    background-color: #000 ;
+}
+
+.audio {
+    background-image: url(../img/man.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+.audio_inner {
+    min-height: 200vh;
+}
