@@ -1,3 +1,5 @@
+@import url(./reset.css);
+
 *::after,
 *::before {
     box-sizing: inherit;
@@ -120,7 +122,7 @@ body {
     font-weight: 700;
     font-size: 36px;
     max-width: 555px;
-    margin: 0 auto 20px;
+    margin: 0 auto 20px;   
 }
 
 .choose_color_text {

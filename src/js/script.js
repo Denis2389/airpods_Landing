@@ -24,3 +24,5 @@ document.querySelector('.menu_product').addEventListener('click', function(event
         behavior: 'smooth'
     });
 });
+
+
