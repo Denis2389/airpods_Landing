@@ -5,6 +5,7 @@ import FullReload from 'vite-plugin-full-reload';
 
 export default defineConfig(({ command }) => {
   return {
+    base: command === 'build' ? '/airpods-Landing';
     define: {
       [command === 'serve' ? 'global' : '_global']: {},
     },
