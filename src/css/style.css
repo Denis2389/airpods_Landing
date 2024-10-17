@@ -228,7 +228,7 @@ body {
 
 .footer {
     padding: 250px 0 40px;
-    background-color: #000 ;
+    /* background-color: #000 ; */
 }
 
 .audio {
@@ -241,3 +241,16 @@ body {
 .audio_inner {
     min-height: 200vh;
 }
+
+.footer-title {
+    color: #FAFAFA;
+    font-weight: 700;
+}
+/* 
+.footer-text-number {
+
+} */
+
+/* @media screen and (min-width: 768px) {
+} */
+
